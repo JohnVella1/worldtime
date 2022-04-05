@@ -1,0 +1,25 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "Aujourd'hui nous avons découvert le module Express qui nous permet de gérer plus facilement un serveur web en NodeJS. Mais également d'afficher des vues simples grâce à l'inclusion de fichiers HTML. Ce soir vous allez devoir afficher une liste de capitales et créer les pages permettant de connaître la date et l'heure dans chacune d'elle. À cette fin vous avez :",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-XIII/S03E04-worldtime-olivier-oclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-XIII/S03E04-worldtime-olivier-oclock/issues"
+  },
+  "homepage": "https://github.com/O-clock-XIII/S03E04-worldtime-olivier-oclock#readme",
+  "dependencies": {
+    "dayjs": "^1.10.7",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
